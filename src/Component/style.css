@@ -1,0 +1,6 @@
+.leaflet-container {
+    height: 550px;
+}
+.leaflet-popup-content {
+    overflow: scroll;
+}
